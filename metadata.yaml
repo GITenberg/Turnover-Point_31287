@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25110
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Coppel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31287#Turnover-Point
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-02-16'
 gutenberg_type: Text
