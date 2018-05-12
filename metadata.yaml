@@ -1,0 +1,50 @@
+_repo: Turnover-Point_31287
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh, Ed
+    - Emsh
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppel, Alfred
+    aliases:
+    - Coppel, Alfredo Jose de Arana-Marini
+    - Gilman, Robert Cham
+    - Coppel, Alfredo José de Arana-Marini
+    - Marin, A. C.
+    birthdate: 1921
+    deathdate: 2004
+    gutenberg_agent_id: '25110'
+    url: http://www.gutenberg.org/2009/agents/25110
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Coppel
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manned space flight -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Criminals -- Fiction'
+title: Turnover Point
+url: http://www.gutenberg.org/ebooks/31287
